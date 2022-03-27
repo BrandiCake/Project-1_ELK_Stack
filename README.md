@@ -3,7 +3,7 @@ Project 1 ELK-Stack, Kibana, Azure
 
 The files in this repository were used to construct the network below.
 
-https://app.diagrams.net/#HBrandiCake%2FProject-1_ELK_Stack%2Fmain%2FPROJECT_1-ELS-STACK-DIAGRAM.drawio.png
+https://app.diagrams.net/#HBrandiCake%2FProject-1_ELK_Stack%2Fmain%2FPROJECT_1-ELK-STACK-DIAGRAM.drawio.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
   
